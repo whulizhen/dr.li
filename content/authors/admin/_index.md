@@ -76,5 +76,5 @@ email: "hpulizhen@163.com"
 user_groups:
 - Researchers
 ---
-Zhen Li is a doctor of astrodynamics and space geodesy. His research interests include spacecraft radiation force modelling, precise orbit determination, GNSS precie positioning. He has worked on many radiation pressure modelling for many spacecraft such as European Galileo navigation satellites, Sentinel-1 and Inmarsat-4F2 spacecraft.
+Zhen Li is a doctor of astrodynamics and space geodesy. His research interests include spacecraft radiation force modelling, precise orbit determination, GNSS precise positioning. He has worked on radiation pressure modelling for many spacecraft such as Galileo satellites (European Global Navigation Satellites), Sentinel-1 (Interferometric Synthetic Aperture Radar mission) and Inmarsat-4F2 (with EGNOS payload onboard) spacecraft.
 
