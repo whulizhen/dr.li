@@ -41,7 +41,7 @@ featured = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-#url_pdf = "article-3.pdf"
+url_pdf = "article-7.pdf"
 #url_preprint = "https://arxiv.org/abs/1810.07842"
 #url_code = "https://github.com/nabsabraham/focal-tversky-unet"
 url_dataset = ""
