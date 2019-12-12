@@ -1,7 +1,7 @@
 +++
 title = "DREMT: A new physics-based empirical representation of solar radiation pressure for Galileo satellites"
 date = "2019-12-01"
-
+draft = true
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
 authors = ["**Zhen Li**"]
