@@ -29,6 +29,7 @@ projects: []
 ---
 This tool is a 3D visulisation of space debris using information collected from multiple sources. It is developed based on Cesium.js which is a javascript library for creating world-class 3D globes and maps with the best possible performance, precision and visual quality.
 Please see the following link:
-<a href="https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html" target="_blank">Space debris distribution</a>
+<!-- <a href="https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html" target="_blank">Space debris distribution</a> -->
 
+<a href="https://spacegeodesy.bitbucket.io/spacedebris_viewer/space_debris.html">Space debris distribution</a>
 

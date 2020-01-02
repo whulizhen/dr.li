@@ -29,6 +29,7 @@ projects: []
 ---
 This project is a 3D visulisation of space vehilce attitude. It shows the yaw-steering attidue and orbit normal attitude. The yaw-steering mode is widely used by GNSS satelltites and the orbit normal mode is mainly used for space vehicle at GEO.
 Please see the following link:
-<a href="https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html" target="_blank">Space vehicle attitude</a>
+<!-- <a href="https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html" target="_blank">Space vehicle attitude</a> -->
 
+<a href="https://spacegeodesy.bitbucket.io/attitude_viewer/attitude_viewer.html">Space vehicle attitude</a>
 

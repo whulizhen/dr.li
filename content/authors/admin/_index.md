@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include space vehicle radiation pressure modelling, presise orbit determination and GNSS precise positioning.
 
 interests:
-- Precise Orbit Determination
-- GNSS data processing and precise positioning
+- Space vehicle precise orbit determination
+- Space vehilce non-conservative force modelling (with accuracy to sub-nanometer per sec)
+- GNSS high accuracy positioning (RTK, PPP, CORS)
 - Artificial Intelligence
 
 education:
@@ -62,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/zhen_cv.pdf
+  link: files/zhen_cv_en.pdf
 
 - icon: researchgate
   icon_pack: ai

@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -29,6 +29,8 @@ projects: []
 ---
 This tool is developed based on THREE.js. It can show the 3D model of space vehicle and the process of ray tracing step by step.
 Please see the following link:
-<a href="https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html" target="_blank">Space vehicle viewer</a>
+<!-- <a href="https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html" target="_blank">Space vehicle viewer</a> -->
+
+<a href="https://spacegeodesy.bitbucket.io/spacecraft_viewer/spacecraft_viewer.html">Space vehicle viewer</a>
 
 
