@@ -18,10 +18,10 @@ organizations:
   url: "https://www.ucl.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include space vehicle radiation pressure modelling, presise orbit determination and GNSS precise positioning.
+bio: My research interests include space vehicle radiation pressure modelling, space debris and space traffic management, presise orbit determination and GNSS precise positioning.
 
 interests:
-- Space vehicle precise orbit determination
+- Space vehicle precise orbit determination, space traffic management
 - Space vehilce non-conservative force modelling (with accuracy to sub-nanometer per sec)
 - GNSS high accuracy positioning (RTK, PPP, CORS)
 - Artificial Intelligence
